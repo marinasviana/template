@@ -1,0 +1,4 @@
+*.lock
+*.html
+.DS_Store
+screenshots
